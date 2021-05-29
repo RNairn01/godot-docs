@@ -49,9 +49,10 @@ contribute, you should also read:
 Contributing changes
 --------------------
 
-**Pull Requests should use the ``master`` branch by default.** Only make Pull
- Requests against other branches (e.g. ``2.1`` or ``3.0``) if your changes only
- apply to that specific version of Godot.
+**Pull Requests should use the ``master`` branch by default.** 
+
+Only make Pull Requests against other branches (e.g. ``2.1`` or ``3.0``) if your changes only
+apply to that specific version of Godot.
 
 Though less convenient to edit than a wiki, this Git repository is where we
 write the documentation. Having direct access to the source files in a revision
